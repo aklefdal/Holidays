@@ -1,0 +1,25 @@
+type project
+title
+    Holidays
+owners
+    Alf Kåre Lefdal
+authors 
+    Alf Kåre Lefdal
+projectUrl
+    http://github.com/aklefdal/Holidays
+iconUrl
+    https://raw.githubusercontent.com/aklefdal/Holidays/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/aklefdal/Holidays/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    
+summary
+    Utility to tell which days are holidays and which are workdays
+description
+    This utility tells which days are holidays and which are workdays. So far it is implemented for Norway, Sweden and Denmark, and more are coming. The code is reusable, so that you can implement your own schema.
+
+
